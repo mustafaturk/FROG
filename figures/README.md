@@ -24,7 +24,7 @@ Each figure name follows the format:
 |--------------|---------|
 | QoE values for BBB under Single-server-side setup | ![BBB-QoE-Single Server Side](BBB-QoE-Single%20Server%20Side.png) |
 | Average video quality for BBB under Single-server-side setup | ![BBB-Quality-Single Server Side](BBB-Quality-Single%20Server%20Side.png) |
-| Quality variation for BBB under Single-server-side setup | ![BBB-Quality Change-Single Server Side](BBB-Quality Change-Single%20Server%20Side.png) |
+| Quality variation for BBB under Single-server-side setup | ![BBB-Quality Change-Single Server Side](BBB-Quality%20Change-Single%20Server%20Side.png) |
 | Total stalls for BBB under Single-server-side setup | ![BBB-Stalls-Single Server Side](BBB-Stalls-Single%20Server%20Side.png) |
 
 ### Elephants Dream (ED) Results
