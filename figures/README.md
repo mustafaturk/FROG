@@ -22,21 +22,21 @@ Each figure name follows the format:
 ### Big Buck Bunny (BBB) Results
 | Description | Figure |
 |--------------|---------|
-| QoE values for BBB under 1x1y setup | ![BBB-1x1y-QoE](figures/BBB-1x1y-QoE.png) |
-| Average video quality for BBB (1x1y) | ![BBB-1x1y-Quality](figures/BBB-1x1y-Quality.png) |
-| Quality variation for BBB (1x1y) | ![BBB-1x1y-QChange](figures/BBB-1x1y-Quality-Change.png) |
-| Total stalls for BBB (1x1y) | ![BBB-1x1y-Stalls](figures/BBB-1x1y-Stalls.png) |
-| QoE values for BBB under 4x2y setup | ![BBB-4x2y-QoE](figures/BBB-4x2y-QoE.png) |
-| QoE variation for BBB (4x2y) | ![BBB-4x2y-QChange](figures/BBB-4x2y-Quality-Change.png) |
+| QoE values for BBB under 1x1y setup | ![BBB-1x1y-QoE](BBB-1x1y-QoE.png) |
+| Average video quality for BBB (1x1y) | ![BBB-1x1y-Quality](BBB-1x1y-Quality.png) |
+| Quality variation for BBB (1x1y) | ![BBB-1x1y-QChange](BBB-1x1y-Quality-Change.png) |
+| Total stalls for BBB (1x1y) | ![BBB-1x1y-Stalls](BBB-1x1y-Stalls.png) |
+| QoE values for BBB under 4x2y setup | ![BBB-4x2y-QoE](BBB-4x2y-QoE.png) |
+| QoE variation for BBB (4x2y) | ![BBB-4x2y-QChange](BBB-4x2y-Quality-Change.png) |
 
 ### Elephants Dream (ED) Results
 | Description | Figure |
 |--------------|---------|
 | QoE values for ED (1x1y) | ![ED-1x1y-QoE](figures/ED-1x1y-QoE.png) |
-| Average video quality for ED (1x1y) | ![ED-1x1y-Quality](figures/ED-1x1y-Quality.png) |
-| Quality change for ED (1x1y) | ![ED-1x1y-QChange](figures/ED-1x1y-Quality-Change.png) |
-| Total stalls for ED (1x1y) | ![ED-1x1y-Stalls](figures/ED-1x1y-Stalls.png) |
-| QoE results with Poisson-distributed bandwidth (ED-P) | ![ED-P-QoE](figures/ED-P-QoE.png) |
+| Average video quality for ED (1x1y) | ![ED-1x1y-Quality](ED-1x1y-Quality.png) |
+| Quality change for ED (1x1y) | ![ED-1x1y-QChange](ED-1x1y-Quality-Change.png) |
+| Total stalls for ED (1x1y) | ![ED-1x1y-Stalls](ED-1x1y-Stalls.png) |
+| QoE results with Poisson-distributed bandwidth (ED-P) | ![ED-P-QoE](ED-P-QoE.png) |
 
 ### Fairness Analysis
 | Description | Figure |
