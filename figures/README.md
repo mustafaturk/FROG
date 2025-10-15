@@ -30,11 +30,10 @@ Each figure name follows the format:
 ### Elephants Dream (ED) Results
 | Description | Figure |
 |--------------|---------|
-| QoE values for ED (1x1y) | ![ED-1x1y-QoE](figures/ED-1x1y-QoE.png) |
-| Average video quality for ED (1x1y) | ![ED-1x1y-Quality](ED-1x1y-Quality.png) |
-| Quality change for ED (1x1y) | ![ED-1x1y-QChange](ED-1x1y-Quality-Change.png) |
-| Total stalls for ED (1x1y) | ![ED-1x1y-Stalls](ED-1x1y-Stalls.png) |
-| QoE results with Poisson-distributed bandwidth (ED-P) | ![ED-P-QoE](ED-P-QoE.png) |
+| QoE values for ED under Single-server-side setup | ![ED-QoE-Single Server Side](ED-QoE-Single%20Server%20Side.png) |
+| Average video quality for ED under Single-server-side setup | ![ED-Quality-Single Server Side](ED-Quality-Single%20Server%20Side.png) |
+| Quality variation for ED under Single-server-side setup | ![ED-Quality Change-Single Server Side](ED-Quality%20Change-Single%20Server%20Side.png) |
+| Total stalls for ED under Single-server-side setup | ![ED-Stalls-Single Server Side](ED-Stalls-Single%20Server%20Side.png) |
 
 ### Fairness Analysis
 | Description | Figure |
