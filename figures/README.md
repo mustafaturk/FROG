@@ -22,12 +22,10 @@ Each figure name follows the format:
 ### Big Buck Bunny (BBB) Results
 | Description | Figure |
 |--------------|---------|
-| QoE values for BBB under 1x1y setup | ![BBB-1x1y-QoE](BBB-1x1y-QoE.png) |
-| Average video quality for BBB (1x1y) | ![BBB-1x1y-Quality](BBB-1x1y-Quality.png) |
-| Quality variation for BBB (1x1y) | ![BBB-1x1y-QChange](BBB-1x1y-Quality-Change.png) |
-| Total stalls for BBB (1x1y) | ![BBB-1x1y-Stalls](BBB-1x1y-Stalls.png) |
-| QoE values for BBB under 4x2y setup | ![BBB-4x2y-QoE](BBB-4x2y-QoE.png) |
-| QoE variation for BBB (4x2y) | ![BBB-4x2y-QChange](BBB-4x2y-Quality-Change.png) |
+| QoE values for BBB under Single-server-side setup | ![BBB-QoE-Single Server Side](BBB-QoE-Single Server Side.png) |
+| Average video quality for BBB under Single-server-side setup | ![BBB-Quality-Single Server Side](BBB-Quality-Single Server Side.png) |
+| Quality variation for BBB under Single-server-side setup | ![BBB-Quality Change-Single Server Side](BBB-Quality Change-Single Server Side.png) |
+| Total stalls for BBB under Single-server-side setup | ![BBB-Stalls-Single Server Side](BBB-Stalls-Single Server Side.png) |
 
 ### Elephants Dream (ED) Results
 | Description | Figure |
