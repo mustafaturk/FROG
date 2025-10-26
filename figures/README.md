@@ -26,7 +26,7 @@ Note: "P" suffix → Denotes tests conducted with **Poisson-distributed bandwidt
 ### Fairness Analysis
 | Description | Figure |
 |--------------|---------|
-| QoE Fairness Index under Poisson-distributed bandwidth | ![Fairness-P](figures/Fairness.png) |
+| QoE Fairness Index under Poisson-distributed bandwidth | ![Fairness](Fairness.png) |
 Average fairness values for single server-side setup
 ## Notes
 
