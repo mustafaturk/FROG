@@ -12,7 +12,6 @@ Note: "P" suffix → Denotes tests conducted with **Poisson-distributed bandwidt
 | Average video quality for ED under Single-server-side setup | ![ED-Quality-Single Server Side](ED-Quality-Single%20Server%20Side.png) |
 | Quality variation for ED under Single-server-side setup | ![ED-Quality Change-Single Server Side](ED-Quality%20Change-Single%20Server%20Side.png) |
 | Total stalls for ED under Single-server-side setup | ![ED-Stalls-Single Server Side](ED-Stalls-Single%20Server%20Side.png) |
-
 | QoE values for ED under Four-server-side setup | ![ED-QoE-Four Server Side](ED-QoE-Four%20Server%20Side.png) |
 | Average video quality for ED under Four-server-side setup | ![ED-Quality-Four Server Side](ED-Quality-Four%20Server%20Side.png) |
 | Quality variation for ED under Four-server-side setup | ![ED-Quality Change-Four Server Side](ED-Quality%20Change-Four%20Server%20Side.png) |
@@ -25,7 +24,6 @@ Note: "P" suffix → Denotes tests conducted with **Poisson-distributed bandwidt
 | Average video quality for BBB under Single-server-side setup | ![BBB-Quality-Single Server Side](BBB-Quality-Single%20Server%20Side.png) |
 | Quality variation for BBB under Single-server-side setup | ![BBB-Quality Change-Single Server Side](BBB-Quality%20Change-Single%20Server%20Side.png) |
 | Total stalls for BBB under Single-server-side setup | ![BBB-Stalls-Single Server Side](BBB-Stalls-Single%20Server%20Side.png) |
-
 | QoE values for BBB under Four-server-side setup | ![BBB-QoE-Four Server Side](BBB-QoE-Four%20Server%20Side.png) |
 | Average video quality for BBB under Four-server-side setup | ![BBB-Quality-Four Server Side](BBB-Quality-Four%20Server%20Side.png) |
 | Quality variation for BBB under Four-server-side setup | ![BBB-Quality Change-Four Server Side](BBB-Quality%20Change-Four%20Server%20Side.png) |
