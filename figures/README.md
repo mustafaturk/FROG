@@ -6,12 +6,13 @@ Note: "P" suffix → Denotes tests conducted with **Poisson-distributed bandwidt
 
 ## Figures
 ### Elephants Dream (ED) Results
+#### Single-server-side setup
 | Description | Figure |
 |--------------|---------|
-| QoE values for ED under Single-server-side setup | ![ED-QoE-Single Server Side](ED-QoE-Single%20Server%20Side.png) |
-| Average video quality for ED under Single-server-side setup | ![ED-Quality-Single Server Side](ED-Quality-Single%20Server%20Side.png) |
-| Quality variation for ED under Single-server-side setup | ![ED-Quality Change-Single Server Side](ED-Quality%20Change-Single%20Server%20Side.png) |
-| Total stalls for ED under Single-server-side setup | ![ED-Stalls-Single Server Side](ED-Stalls-Single%20Server%20Side.png) |
+| QoE values for ED under | ![ED-QoE-Single Server Side](ED-QoE-Single%20Server%20Side.png) |
+| Average video quality for ED under | ![ED-Quality-Single Server Side](ED-Quality-Single%20Server%20Side.png) |
+| Quality variation for ED under | ![ED-Quality Change-Single Server Side](ED-Quality%20Change-Single%20Server%20Side.png) |
+| Total stalls for ED under | ![ED-Stalls-Single Server Side](ED-Stalls-Single%20Server%20Side.png) |
 
 ### Big Buck Bunny (BBB) Results
 | Description | Figure |
